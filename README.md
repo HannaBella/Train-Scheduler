@@ -17,6 +17,6 @@
     
     - Frequency -- in minutes
   
-  * Users from many different machines can view same train times.
-
+ ## Contributor Hanna Tefera 
+ <img src="https://raw.githubusercontent.com/HannaBella/Responsive-Portfolio/master/assets/images/my-pic.png" height=100 width=100>
 
