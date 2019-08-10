@@ -21,6 +21,6 @@
  <img src="https://raw.githubusercontent.com/HannaBella/Responsive-Portfolio/master/assets/images/my-pic.png">
  
  
- **Train Scheduler app
+ ### Train Scheduler app
  <img src="https://raw.githubusercontent.com/HannaBella/Responsive-Portfolio/master/assets/images/TrainScheduler.png" height=200 width=200>
 
