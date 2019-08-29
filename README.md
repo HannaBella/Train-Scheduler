@@ -3,8 +3,6 @@
 
 ### This Train Scheduler app calculates when the next train will arrive in relative to the current time.
 
-* To build this app, html, bootstrap, jquery, firebase database and moment Js are used.
-
  The app suits this basic spec(MVP):
   
   * When adding trains, the following data will be submitted to the app
@@ -17,10 +15,11 @@
     
     - Frequency -- in minutes
   
+  * Technology used to build this app:
+    - html, bootstrap, jquery, firebase database and moment Js.
+  
  ## Contributor Hanna Tefera 
- <img src="https://raw.githubusercontent.com/HannaBella/Responsive-Portfolio/master/assets/images/my-pic.png">
- 
  
  ### Train Scheduler app
- <img src="https://raw.githubusercontent.com/HannaBella/Responsive-Portfolio/master/assets/images/TrainScheduler.png" height=200 width=200>
+ <img src="https://raw.githubusercontent.com/HannaBella/Responsive-Portfolio/master/assets/images/TrainScheduler.png" height=300 width=400>
 
