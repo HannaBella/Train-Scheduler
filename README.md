@@ -16,7 +16,11 @@
     - Frequency -- in minutes
   
   * Technology used to build this app:
-    - html, bootstrap, jquery, firebase database and moment Js.
+    - HTML5 
+    - Bootstrap 
+    - jQuery 
+    - Firebase database and 
+    - Moment.js
   
  ## Contributor Hanna Tefera 
  
