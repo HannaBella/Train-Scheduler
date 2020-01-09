@@ -22,7 +22,7 @@
     - Firebase database and 
     - Moment.js
   
- ## Contributor Hanna Tefera 
+ ## Author Hanna Tefera 
  
  ### Train Scheduler app
  <img src="https://raw.githubusercontent.com/HannaBella/Responsive-Portfolio/master/assets/images/TrainScheduler.png" height=300 width=400>
