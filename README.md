@@ -1,7 +1,6 @@
-# Train-Scheduler
 ## Train Scheduler
 
-### This Train Scheduler app calculates when the next train will arrive in relative to the current time.
+This Train Scheduler app calculates when the next train will arrive in relative to the current time.
 
  The app suits this basic spec(MVP):
   
