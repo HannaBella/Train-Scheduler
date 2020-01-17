@@ -14,7 +14,7 @@ This Train Scheduler app calculates when the next train will arrive in relative 
     
     - Frequency -- in minutes
   
-  * Technology used to build this app:
+  ### Technology used to build this app:
     - HTML5 
     - Bootstrap 
     - jQuery 
