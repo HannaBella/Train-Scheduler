@@ -14,14 +14,14 @@ This Train Scheduler app calculates when the next train will arrive in relative 
     
     - Frequency -- in minutes
   
-  ### Technology used to build 
-  
-    - HTML5 
-    - Bootstrap 
-    - jQuery 
-    - Firebase database and 
-    - Moment.js
-  
+  ### Technology
+   
+   - HTML5
+   - Bootstrap
+   - jQuery
+   - Firebase database
+   - Moment.js
+
  
  ### Train Scheduler app
  <img src="https://raw.githubusercontent.com/HannaBella/Responsive-Portfolio/master/assets/images/TrainScheduler.png" height=300 width=400>
