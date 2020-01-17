@@ -26,4 +26,4 @@ This Train Scheduler app calculates when the next train will arrive in relative 
  <img src="https://raw.githubusercontent.com/HannaBella/Responsive-Portfolio/master/assets/images/TrainScheduler.png" height=300 width=400>
 
 
-## Author Hanna Tefera 
+## Created by Hanna Tefera 
